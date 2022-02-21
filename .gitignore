@@ -1,0 +1,6 @@
+# python
+*.ipynb_checkpoints/
+*.py[oc]
+
+# os relics
+.DS_Store
