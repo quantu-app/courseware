@@ -63,3 +63,4 @@ This is a rough outline of the topics in mathematics which we would like to buil
 ## Curricula Resources
 1. [Yale's Math Offering](https://math.yale.edu/print/19141).
 2. [MIT's Math Major Roadmap](https://math.mit.edu/academics/undergrad/roadmaps.php)
+3. [Susan Rigetti's "So you want to learn math"](https://www.susanrigetti.com/math)
