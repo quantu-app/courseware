@@ -1,12 +1,20 @@
 # Mathematics
 
-This is a rough outline of the topics in mathematics which we would like to build out in the knowledge tree.
+This is a rough outline of some of the subsections of the knowledge tree which the mathematics department is responsible for.
 
 ## Topics
 
-1. Logic
-2. Epistemology
-3. Metaphysics
-4. Moral and Political Philosophy
-5. European Philosophy
-6. Asian Philosophy
+1. Foundations
+    * Mathematical Logic
+    * Set Theory
+    * Category Theory
+2. Number Theory
+3. Geometry & Topology
+    * Euclidean Geometry
+    * Non-euclidean Geometry
+4. Algebra
+    * Linear Algebra
+    * Group Theory
+5. Analysis and Calculus
+    * Complex Analysis
+    * Functional Analysis

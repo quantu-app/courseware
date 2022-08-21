@@ -7,3 +7,4 @@ This document contains a list of departments with their main information.
 | Mathematics | MATH |
 | Statistics  | STAT |
 | Philosophy  | PHIL |
+| Computer Science | COMP |
