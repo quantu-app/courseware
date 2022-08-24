@@ -1,8 +1,6 @@
 # Mathematics
 
-This is a rough outline of some of the subsections of the knowledge tree which the mathematics department is responsible for.
-
-## Topics
+## Knowledge Tree Responsibilities
 
 1. Foundations
     * Mathematical Logic

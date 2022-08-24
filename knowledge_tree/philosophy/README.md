@@ -1,8 +1,6 @@
 # Philosophy
 
-These are the main sections of the knowledge tree which the philosophy department is responsible for. They need to be built out with well-designed courses and learning materials.
-
-## Topics
+## Knowledge Tree Responsibilities
 
 1. Logic
 2. Epistemology
