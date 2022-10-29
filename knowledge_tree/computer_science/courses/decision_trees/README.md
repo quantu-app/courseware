@@ -1,4 +1,0 @@
-# Decision Trees
-
-## Goals
-
